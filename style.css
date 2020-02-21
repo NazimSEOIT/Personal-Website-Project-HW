@@ -1,0 +1,111 @@
+body{
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+   
+}
+p{
+    color: gray;
+}
+.name-highlight{
+    font-size: 60px;
+    font-weight: 700;
+    color: red;
+}
+.padding-welcome-text{
+    padding-left: 5%;
+    padding-top: 5%;
+    text-align: justify;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 15%;
+    margin-left: 6%;
+}
+.half-width img{
+    width: 100%;
+}
+.header-section{
+    background-image: url("images/header-bg.png");
+    height: 1070px;
+}
+.biography-section{
+    background-image: url("images/biography-bg.png");
+    height: 1070px;
+}
+.padding-biography-text{
+    padding-top: 20%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #f854a6, #dc0973);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.latest-work-section{
+    background-image: url("images/latest-work-bg.png");
+    height: 797px;
+}
+.last-two-middle-hedding{
+    width: 100%;
+    height: 191px;
+}
+.last-two-middle-hedding h1{
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 60px;
+    text-align: center;
+}
+.work-image{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding-left: 10px;
+    padding-top: 8%;
+}
+#first-image-padding{
+    padding-left: 5%;
+}
+.footer-section{
+    background-image: url("images/footer-bg.png");
+    height: 1070px;
+}
+.client-name{
+    width: 100%;
+    height: 190px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 4%;
+}
+.client-name h4{
+    font-weight: 700;
+    font-size: 25px;
+}
+.client-comment{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    font-weight: 700;
+    color: black;
+}
+.email-section{
+    background-image: linear-gradient(50deg, #f854a6, #dc0973);
+    padding:15px 25px;
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-left: 26%;
+    width: 50%;
+}
+.email-section h3{
+    font-size: 30px;
+}
+.email-section a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+footer{
+    text-align: center;
+}
